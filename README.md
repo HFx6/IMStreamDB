@@ -2,7 +2,7 @@
 
 A quick and Easy UserScript I made to pracise my JS skills.
 
-[Install IMStreamDB](https://github.com/ZombieTaco/IMStreamDB/raw/master/code.user.js)
+[Install IMStreamDB](https://github.com/HFx6/IMStreamDB/raw/master/code.user.js)
 
 Adds a ``Stream`` button on any IMDB page.
 
