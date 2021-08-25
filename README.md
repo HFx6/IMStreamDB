@@ -1,3 +1,5 @@
+**<-- API RETIRED, IT NO LONGER WORKS -->**
+
 <img src="https://i.imgur.com/cKUUKbK.png" width="100">
 
 A quick and Easy UserScript I made to pracise my JS skills.
